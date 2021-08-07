@@ -1,6 +1,8 @@
 <resources>
-    <string name="app_name">ImageSearch</string>
+    <string name="app_name">Image Search</string>
 
-    <!--Button-->
     <string name="btn_search">Search</string>
+    <string name="imgae_list_item_description">Image</string>
+    <string name="image_list_item_title">Title : %1$s</string>
+    <string name="image_list_item_hex">Hex : %1$s</string>
 </resources>

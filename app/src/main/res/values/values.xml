@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_height">100dp</dimen>
+    <dimen name="grid_view_margin">3dp</dimen>
+    <dimen name="textView_padding">2dp</dimen>
+</resources>
